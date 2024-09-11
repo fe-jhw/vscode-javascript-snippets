@@ -629,5 +629,5 @@
     "prefix": "nusspr",
     "body": ["const searchParams = useSearchParams()"],
     "scope": "typescript,typescriptreact,javascript,javascriptreact"
-  },
+  }
 }
